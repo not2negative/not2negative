@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alonso Parra (`@not2negative`)
 
-<!--
-**not2negative/not2negative** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudiante de Ingeniería Civil en Computación e Informática** en la UCSH  
+🛡️ **Cybersecurity Enthusiast & Software Developer** 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+
+- 🎓 Actualmente en el **2º semestre** de la universidad, complementando la carrera con aprendizaje 100% autodidacta.
+- 🎯 Enfocado en la **Ciberseguridad** (Hacking Ético, Redes, Administración de Sistemas) y el **Desarrollo de Software**.
+- 🛠️ Resolviendo laboratorios y máquinas en **Hack The Box (HTB)** y participando en competencias **CTF** (Attack & Defense).
+- 📜 **+20 Certificaciones** completadas de forma autónoma (Google/Coursera, Santander Open Academy, etc.).
+
+---
+
+### 💻 Tecnologías y Herramientas
+
+- **Lenguajes:** Python, Go, SQL, Bash
+- **Ciberseguridad & Entornos:** Hack The Box, Kali Linux, Linux SysAdmin, Redes
+- **Herramientas:** Git, GitHub, VS Code
+
+---
+
+### 🏆 Destacados & Proyectos
+
+- 🚩 **CTF Campo de Marte (INACAP Valparaíso):** Participación en competencias de Ciberseguridad Attack/Defense.
+- 💻 **Desarrollo Freelance:** Experiencia previa construyendo soluciones de software personalizadas.
+
+---
+
+### 📫 Conectemos
+
+- 💼 **LinkedIn:** [linkedin.com/in/alonso-parra](https://www.linkedin.com/in/alonso-parra/)
+- 🐙 **GitHub:** [@not2negative](https://github.com/not2negative)
+
+---
+⚡ *"Aprendiendo y resolviendo retos todos los días."*
