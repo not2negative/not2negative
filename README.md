@@ -1,4 +1,4 @@
-# 👋 Hi welcome to my profile, I'm Alonso Parra
+# 👋 Hi, Welcome to my profile
 
 🎓 **Computer Science & Informatics Engineering Student**  
 🛡️ **Cybersecurity Enthusiast & Software Developer** 
@@ -39,9 +39,11 @@
 | **Gemini** | Google | [View Certificate](https://drive.google.com/file/d/1E1WX3nzTg_fjauhNeuMTvQ4fWtFMZBh7/view?usp=sharing) |
 | **Responsible Prompting: AI in your Business** | Microsoft / Founderz | [View Certificate](https://drive.google.com/file/d/1lawneDXJPQtUyMpy1IKKL3BRUjWJ1bqh/view?usp=sharing) |
 | **Power BI Advanced** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1pzn7p8cbUWqxbF63OPp285Unu5s04OoQ/view?usp=sharing) |
+| **Excel Advanced** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1b4MjUW8CYVRrxiOdkUsrUVLEHcBbT5E2/view?usp=sharing) |
 | **Data Science** | IE University | [View Certificate](https://drive.google.com/file/d/1k_NMIQPdhSqyPS02trBOxGqM-jur9FhR/view?usp=sharing) |
 | **Google AI For Marketing** | Google | [View Certificate](https://drive.google.com/file/d/1ki71yeXX8VU-gQZE20VKvAcJ2v4UG-Be/view?usp=sharing) |
-| **EVENT: Campo de Marte CTF (Attack & Defense)** | INACAP Valparaíso | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/) |
+| ChatGPT Essentials | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1CJ64GiZavu0IivNCrRmSXLMEtkS0jUQt/view?usp=sharing) |
+| **Campo de Marte CTF (Attack & Defense)** | INACAP Valparaíso | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/) |
 
 ---
 
