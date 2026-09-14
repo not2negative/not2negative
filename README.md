@@ -1,11 +1,11 @@
-# 👋 Bienvenido a mi perfil!!
+# 👋 Hi welcome to my profile, I'm Alonso Parra
 
-🎓 **Estudiante de Ingeniería Civil en Computación e Informática** 
+🎓 **Computer Science & Informatics Engineering Student**  
 🛡️ **Cybersecurity Enthusiast & Software Developer** 
 
 ---
 
-### 🛠️ Lenguajes & Tecnologías
+### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -18,33 +18,33 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-- Actualmente en el **2º semestre** de la universidad, complementando la carrera con aprendizaje de cursos, prácticas y proyectos personales.
-- Tengo un gran enfoque en la **Ciberseguridad** (Hacking Ético, Redes, SysAdmin) y **Desarrollo de Software**.
-- Resolviendo laboratorios en **Hack The Box (HTB)** y participando en competencias **CTF** (Attack & Defense, Jeopardy, etc).
-- **+20 Certificaciones** completadas en plataformas como Cisco Academy Network, Google y Santander Open Academy.
+- Currently in my **2nd semester** of Computer Science Engineering, combining university coursework with self-taught projects and courses.
+- Focused on **Cybersecurity** (Ethical Hacking, Networking, SysAdmin) and **Software Development**.
+- Practicing hands-on skills through **Hack The Box (HTB)** labs and competing in **CTFs** (Attack & Defense, Jeopardy).
+- Completed **20+ certifications** across Cisco Networking Academy, Google, Microsoft, and Santander Open Academy.
 
 ---
 
-### 📜 Certificaciones & Logros
+### 📜 Certifications & Achievements
 
-| Certificación / Logro | Emisor | Enlace |
+| Certification / Achievement | Issuer | Link |
 | :--- | :--- | :--- |
-| **Linux Essentials** | Cisco | [Ver Credencial](https://www.credly.com/badges/9b88dff1-ae0d-46d5-9608-bff753ac8ec3/public_url) |
-| **Introduction to Cybersecurity** | Cisco | [Ver Credencial](https://www.credly.com/badges/f91db435-4b71-4424-b5d5-32a24a2efd52/linked_in_profile) |
-| **Python** | Santander Open Academy | [Ver Certificado](https://drive.google.com/file/d/1aIG8mjvFhCWuKp2iF9O4EcVwOJo6Y-nL/view?usp=sharing) |
-| **Google Cybersecurity Certificate** | Coursera/Google | [Ver Credencial](https://drive.google.com/file/d/1gloJ-Y9GuPDYdKEumNMKzIMYOAv2P9n4/view?usp=sharing) |
-| **Microsoft Copilot** | Santander Open Academy | [Ver Certificado](https://drive.google.com/file/d/1vzuOkVJ2g3RfHPhZGRm2IqVuH6IrAMZO/view?usp=sharing) |
-| **Gemini** | Santander Open Academy | [Ver Certificado](https://drive.google.com/file/d/1E1WX3nzTg_fjauhNeuMTvQ4fWtFMZBh7/view?usp=sharing) |
-| **Prompting Responsable: IA en tu negocio** | Santander Open Academy/Microsoft/Founderz | [Ver Certificado](https://drive.google.com/file/d/1lawneDXJPQtUyMpy1IKKL3BRUjWJ1bqh/view?usp=sharing) |
-| **Power BI: Intermedio** | Santander Open Academy | [Ver Credencial](https://drive.google.com/file/d/1pzn7p8cbUWqxbF63OPp285Unu5s04OoQ/view?usp=sharing) |
-| **EVENTO CTF Campo de Marte (Attack & Defense)** | INACAP Valparaíso | [Ver más](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/) |
+| **Linux Essentials** | Cisco Networking Academy | [View Certificate](https://www.credly.com/badges/9b88dff1-ae0d-46d5-9608-bff753ac8ec3/public_url) |
+| **Introduction to Cybersecurity** | Cisco Networking Academy | [View Certificate](https://www.credly.com/badges/f91db435-4b71-4424-b5d5-32a24a2efd52/linked_in_profile) |
+| **Google Cybersecurity Certificate** | Google | [View Certificate](https://drive.google.com/file/d/1gloJ-Y9GuPDYdKEumNMKzIMYOAv2P9n4/view?usp=sharing) |
+| **Python** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1aIG8mjvFhCWuKp2iF9O4EcVwOJo6Y-nL/view?usp=sharing) |
+| **Microsoft Copilot** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1vzuOkVJ2g3RfHPhZGRm2IqVuH6IrAMZO/view?usp=sharing) |
+| **Gemini** | Google | [View Certificate](https://drive.google.com/file/d/1E1WX3nzTg_fjauhNeuMTvQ4fWtFMZBh7/view?usp=sharing) |
+| **Responsible Prompting: AI in your Business** | Microsoft / Founderz | [View Certificate](https://drive.google.com/file/d/1lawneDXJPQtUyMpy1IKKL3BRUjWJ1bqh/view?usp=sharing) |
+| **Power BI Advanced** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1pzn7p8cbUWqxbF63OPp285Unu5s04OoQ/view?usp=sharing) |
+| **Data Science** | IE University | [View Certificate](https://drive.google.com/file/d/1k_NMIQPdhSqyPS02trBOxGqM-jur9FhR/view?usp=sharing) |
+| **Google AI For Marketing** | Google | [View Certificate](https://drive.google.com/file/d/1ki71yeXX8VU-gQZE20VKvAcJ2v4UG-Be/view?usp=sharing) |
+| **EVENT: Campo de Marte CTF (Attack & Defense)** | INACAP Valparaíso | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/) |
 
 ---
 
-### 📫 Conectemos
+### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [linkedin.com/in/alonso-parra](https://www.linkedin.com/in/alonso-parra/)
-
----
