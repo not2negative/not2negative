@@ -43,6 +43,7 @@
 | **Data Science** | IE University | [View Certificate](https://drive.google.com/file/d/1k_NMIQPdhSqyPS02trBOxGqM-jur9FhR/view?usp=sharing) |
 | **Google AI For Marketing** | Google | [View Certificate](https://drive.google.com/file/d/1ki71yeXX8VU-gQZE20VKvAcJ2v4UG-Be/view?usp=sharing) |
 | ChatGPT Essentials | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1CJ64GiZavu0IivNCrRmSXLMEtkS0jUQt/view?usp=sharing) |
+
 | **Campo de Marte CTF (Attack & Defense)** | INACAP Valparaíso | [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/) |
 
 ---
