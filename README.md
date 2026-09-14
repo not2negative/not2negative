@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Alonso Parra (`@not2negative`)
+# 👋 Bienvenido a mi perfil!!
 
-🎓 **Estudiante de Ingeniería Civil en Computación e Informática** en la UCSH  
+🎓 **Estudiante de Ingeniería Civil en Computación e Informática** 
 🛡️ **Cybersecurity Enthusiast & Software Developer** 
 
 ---
@@ -20,10 +20,10 @@
 
 ### 🚀 Sobre mí
 
-- 🎓 Actualmente en el **2º semestre** de la universidad, complementando la carrera con aprendizaje 100% autodidacta.
-- 🎯 Enfocado en la **Ciberseguridad** (Hacking Ético, Redes, SysAdmin) y **Desarrollo de Software**.
-- 🛠️ Resolviendo laboratorios en **Hack The Box (HTB)** y participando en competencias **CTF** (Attack & Defense).
-- 📜 **+20 Certificaciones** completadas en plataformas como Coursera, Google y Santander Open Academy.
+- Actualmente en el **2º semestre** de la universidad, complementando la carrera con aprendizaje de cursos, prácticas y proyectos personales.
+- Tengo un gran enfoque en la **Ciberseguridad** (Hacking Ético, Redes, SysAdmin) y **Desarrollo de Software**.
+- Resolviendo laboratorios en **Hack The Box (HTB)** y participando en competencias **CTF** (Attack & Defense, Jeopardy, etc).
+- **+20 Certificaciones** completadas en plataformas como Cisco Academy Network, Google y Santander Open Academy.
 
 ---
 
@@ -31,26 +31,16 @@
 
 | Certificación / Logro | Emisor | Enlace |
 | :--- | :--- | :--- |
-| **Introduction to Cybersecurity** | Cisco / Credly | [Ver Credencial](https://www.credly.com) |
-| **Cursos de Ciberseguridad & Python** | Santander Open Academy | *Completado* |
-| **Google Cybersecurity Certificate** | Coursera / Google | [Ver Credencial](#) |
-| **CTF Campo de Marte (Attack & Defense)** | INACAP Valparaíso | *Competidor* |
-
----
-
-### 📁 Portafolio & Proyectos
-
-| Proyecto | Descripción | Tecnologías | Código |
-| :--- | :--- | :--- | :--- |
-| **Proyecto 1** | *Descripción breve de tu script o herramienta* | `Python` `Bash` | [Repositorio](#) |
-| **Proyecto 2** | *Descripción breve de tu aplicación en Go* | `Go` `SQL` | [Repositorio](#) |
+| **Linux Essentials** | Cisco | [Ver Credencial](https://www.credly.com/badges/9b88dff1-ae0d-46d5-9608-bff753ac8ec3/public_url)
+| **Introduction to Cybersecurity** | Cisco | [Ver Credencial](https://www.credly.com/badges/f91db435-4b71-4424-b5d5-32a24a2efd52/linked_in_profile) |
+| **Cursos de Ciberseguridad & Python** | Santander Open Academy | [Ver Certificado](https://drive.google.com/file/d/1aIG8mjvFhCWuKp2iF9O4EcVwOJo6Y-nL/view?usp=sharing) |
+| **Google Cybersecurity Certificate** | Coursera/Google | [Ver Credencial](#) |
+| **CTF Campo de Marte (Attack & Defense)** | INACAP Valparaíso | [Ver más](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/) |
 
 ---
 
 ### 📫 Conectemos
 
 - 💼 **LinkedIn:** [linkedin.com/in/alonso-parra](https://www.linkedin.com/in/alonso-parra/)
-- 🐙 **GitHub:** [@not2negative](https://github.com/not2negative)
 
 ---
-⚡ *"Aprendiendo y resolviendo retos todos los días."*
