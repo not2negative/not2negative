@@ -56,7 +56,7 @@
 
 ---
 
-### 🔗 Connect with Me
+### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/alonso-parra](https://www.linkedin.com/in/alonso-parra/)
-- 📫 **Mail:** [aparra.buss@gmail.com](aparra.buss@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alonso-parra/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aparra.buss@gmail.com)
