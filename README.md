@@ -15,6 +15,7 @@
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Boot.dev Python certificate](https://www.boot.dev/certificates/28a8074d-6187-44b4-aa5c-7f91f7c999ef)
 
 ---
 
