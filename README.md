@@ -37,13 +37,12 @@
 | **Python** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1aIG8mjvFhCWuKp2iF9O4EcVwOJo6Y-nL/view?usp=sharing) |
 | **Microsoft Copilot** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1vzuOkVJ2g3RfHPhZGRm2IqVuH6IrAMZO/view?usp=sharing) |
 | **Gemini** | Google | [View Certificate](https://drive.google.com/file/d/1E1WX3nzTg_fjauhNeuMTvQ4fWtFMZBh7/view?usp=sharing) |
-| **Responsible Prompting: AI in your Business** | Microsoft / Founderz | [View Certificate](https://drive.google.com/file/d/1lawneDXJPQtUyMpy1IKKL3BRUjWJ1bqh/view?usp=sharing) |
 | **Power BI Advanced** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1pzn7p8cbUWqxbF63OPp285Unu5s04OoQ/view?usp=sharing) |
 | **Excel Advanced** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1b4MjUW8CYVRrxiOdkUsrUVLEHcBbT5E2/view?usp=sharing) |
 | **Data Science** | IE University | [View Certificate](https://drive.google.com/file/d/1k_NMIQPdhSqyPS02trBOxGqM-jur9FhR/view?usp=sharing) |
 | **Google AI For Marketing** | Google | [View Certificate](https://drive.google.com/file/d/1ki71yeXX8VU-gQZE20VKvAcJ2v4UG-Be/view?usp=sharing) |
 | **ChatGPT Essentials** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1CJ64GiZavu0IivNCrRmSXLMEtkS0jUQt/view?usp=sharing) |
-| **Introduction to Python Course** | Boot.dev | [View Certificate](https://www.boot.dev/certificates/28a8074d-6187-44b4-aa5c-7f91f7c999ef)
+| **Introduction to Python Course** | Boot.dev | [View Certificate](https://www.boot.dev/certificates/28a8074d-6187-44b4-aa5c-7f91f7c999ef) |
 
 ---
 
