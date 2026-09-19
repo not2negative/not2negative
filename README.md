@@ -33,7 +33,7 @@
 | :--- | :--- | :--- |
 | **Linux Essentials** | Cisco Networking Academy | [View Certificate](https://www.credly.com/badges/9b88dff1-ae0d-46d5-9608-bff753ac8ec3/public_url) |
 | **Introduction to Cybersecurity** | Cisco Networking Academy | [View Certificate](https://www.credly.com/badges/f91db435-4b71-4424-b5d5-32a24a2efd52/linked_in_profile) |
-| **Google Cybersecurity Certificate** | Google | [View Certificate](https://drive.google.com/file/d/1gloJ-Y9GuPDYdKEumNMKzIMYOAv2P9n4/view?usp=sharing) |
+| **Google Cybersecurity** | Google | [View Certificate](https://drive.google.com/file/d/1gloJ-Y9GuPDYdKEumNMKzIMYOAv2P9n4/view?usp=sharing) |
 | **Python** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1aIG8mjvFhCWuKp2iF9O4EcVwOJo6Y-nL/view?usp=sharing) |
 | **Microsoft Copilot** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1vzuOkVJ2g3RfHPhZGRm2IqVuH6IrAMZO/view?usp=sharing) |
 | **Gemini** | Google | [View Certificate](https://drive.google.com/file/d/1E1WX3nzTg_fjauhNeuMTvQ4fWtFMZBh7/view?usp=sharing) |
