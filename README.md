@@ -1,7 +1,7 @@
 # 👋 Hi, Welcome to my profile
 
 🎓 **Computer Science & Informatics Engineering Student**  
-🛡️ **Cybersecurity Enthusiast & Software Developer** 
+🛡️ **Cybersecurity Enthusiast & Software Developer**
 
 ---
 
@@ -27,23 +27,23 @@
 
 ---
 
-### 📜 Certifications & Achievements
+### 📜 Certifications
 
-| Certification / Achievement | Issuer | Link |
-| :--- | :--- | :--- |
-| **Linux Essentials** | Cisco Networking Academy | [View Certificate](https://www.credly.com/badges/9b88dff1-ae0d-46d5-9608-bff753ac8ec3/public_url) |
-| **Introduction to Cybersecurity** | Cisco Networking Academy | [View Certificate](https://www.credly.com/badges/f91db435-4b71-4424-b5d5-32a24a2efd52/linked_in_profile) |
-| **Google Cybersecurity** | Google | [View Certificate](https://drive.google.com/file/d/1gloJ-Y9GuPDYdKEumNMKzIMYOAv2P9n4/view?usp=sharing) |
-| **Python** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1aIG8mjvFhCWuKp2iF9O4EcVwOJo6Y-nL/view?usp=sharing) |
-| **Microsoft Copilot** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1vzuOkVJ2g3RfHPhZGRm2IqVuH6IrAMZO/view?usp=sharing) |
-| **Gemini** | Google | [View Certificate](https://drive.google.com/file/d/1E1WX3nzTg_fjauhNeuMTvQ4fWtFMZBh7/view?usp=sharing) |
-| **Power BI Advanced** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1pzn7p8cbUWqxbF63OPp285Unu5s04OoQ/view?usp=sharing) |
-| **Excel Advanced** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1b4MjUW8CYVRrxiOdkUsrUVLEHcBbT5E2/view?usp=sharing) |
-| **Data Science** | IE University | [View Certificate](https://drive.google.com/file/d/1k_NMIQPdhSqyPS02trBOxGqM-jur9FhR/view?usp=sharing) |
-| **Google AI For Marketing** | Google | [View Certificate](https://drive.google.com/file/d/1ki71yeXX8VU-gQZE20VKvAcJ2v4UG-Be/view?usp=sharing) |
-| **ChatGPT Essentials** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1CJ64GiZavu0IivNCrRmSXLMEtkS0jUQt/view?usp=sharing) |
-| **Introduction to Python Course** | Boot.dev | [View Certificate](https://www.boot.dev/certificates/28a8074d-6187-44b4-aa5c-7f91f7c999ef) |
-| **Learn Linux** | Boot.dev | [View Certificate](https://www.boot.dev/certificates/371a33e4-88cd-4eba-a62b-ff952627a10d) |
+| Certification / Achievement                    | Issuer                   | Link                                                                                                     |
+| :--------------------------------------------- | :----------------------- | :------------------------------------------------------------------------------------------------------- |
+| **Linux Essentials**                           | Cisco Networking Academy | [View Certificate](https://www.credly.com/badges/9b88dff1-ae0d-46d5-9608-bff753ac8ec3/public_url)        |
+| **Introduction to Cybersecurity**              | Cisco Networking Academy | [View Certificate](https://www.credly.com/badges/f91db435-4b71-4424-b5d5-32a24a2efd52/linked_in_profile) |
+| **Google Cybersecurity Certificate**           | Google                   | [View Certificate](https://drive.google.com/file/d/1gloJ-Y9GuPDYdKEumNMKzIMYOAv2P9n4/view?usp=sharing)   |
+| **Python**                                     | Santander Open Academy   | [View Certificate](https://drive.google.com/file/d/1aIG8mjvFhCWuKp2iF9O4EcVwOJo6Y-nL/view?usp=sharing)   |
+| **Microsoft Copilot**                          | Santander Open Academy   | [View Certificate](https://drive.google.com/file/d/1vzuOkVJ2g3RfHPhZGRm2IqVuH6IrAMZO/view?usp=sharing)   |
+| **Gemini**                                     | Google                   | [View Certificate](https://drive.google.com/file/d/1E1WX3nzTg_fjauhNeuMTvQ4fWtFMZBh7/view?usp=sharing)   |
+| **Responsible Prompting: AI in your Business** | Microsoft / Founderz     | [View Certificate](https://drive.google.com/file/d/1lawneDXJPQtUyMpy1IKKL3BRUjWJ1bqh/view?usp=sharing)   |
+| **Power BI Advanced**                          | Santander Open Academy   | [View Certificate](https://drive.google.com/file/d/1pzn7p8cbUWqxbF63OPp285Unu5s04OoQ/view?usp=sharing)   |
+| **Excel Advanced**                             | Santander Open Academy   | [View Certificate](https://drive.google.com/file/d/1b4MjUW8CYVRrxiOdkUsrUVLEHcBbT5E2/view?usp=sharing)   |
+| **Data Science**                               | IE University            | [View Certificate](https://drive.google.com/file/d/1k_NMIQPdhSqyPS02trBOxGqM-jur9FhR/view?usp=sharing)   |
+| **Google AI For Marketing**                    | Google                   | [View Certificate](https://drive.google.com/file/d/1ki71yeXX8VU-gQZE20VKvAcJ2v4UG-Be/view?usp=sharing)   |
+| **ChatGPT Essentials**                         | Santander Open Academy   | [View Certificate](https://drive.google.com/file/d/1CJ64GiZavu0IivNCrRmSXLMEtkS0jUQt/view?usp=sharing)   |
+| **Introduction to Python Course**              | Boot.dev                 | [View Certificate](https://www.boot.dev/certificates/28a8074d-6187-44b4-aa5c-7f91f7c999ef)               |
 
 ---
 
@@ -54,6 +54,10 @@
 > **Format:** Live Attack & Defense Competition  
 > 📌 Competed in live cybersecurity challenges, tackling real-time infrastructure defense, vulnerability analysis, and network security.  
 > 🔗 [View Event & Highlights on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/)
+
+> 📁 **Python | BookBot Project**  
+> One of my firsts projects in python with official Boot.dev certification  
+> 🔗 [View repository](https://github.com/not2negative/bookbot-project)
 
 ---
 
