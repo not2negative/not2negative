@@ -20,9 +20,9 @@
 
 ### 🚀 About Me
 
-- Currently in my **2nd semester** of Computer Science Engineering, combining university coursework with self-taught projects and courses.
-- Focused on **Cybersecurity** (Ethical Hacking, Networking, SysAdmin) and **Software Development**.
-- Practicing hands-on skills through **Hack The Box (HTB)** labs and competing in **CTFs** (Attack & Defense, Jeopardy).
+- Currently studying in my Computer Science Engineering degree, combining university coursework with self-taught projects and courses.
+- Focused on **Cybersecurity** (Ethical Hacking, Networking, SysAdmin, Active Directory) and **Software Development**.
+- Practicing hands-on skills through **Hack The Box (HTB)** labs and competing in **CTFs** (Attack & Defense, Jeopardy, etc).
 - Completed **20+ certifications** across Cisco Networking Academy, Google, Microsoft, and Santander Open Academy.
 
 ---
