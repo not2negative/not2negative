@@ -20,8 +20,7 @@
 
 ### 🚩 Highlights
 
-> 🛡️ **Cybersecurity Writeups & Vulnerability Research**  
-> **Repository:** `not2negative/cybersecurity-writeups`  
+> 🛡️ **Cybersecurity Writeups & Vulnerability Research** 
 > Technical reports documenting end-to-end penetration testing methodology, root-cause analysis (CVEs, cryptography, privilege escalation), and remediation guidelines for Hack The Box labs and CTFs.  
 > 🔗 [Explore Writeups](https://github.com/not2negative/cybersecurity-writeups)
 
@@ -47,8 +46,6 @@
 ---
 
 ### 📜 Certifications
-
-### 📜 Core Technical Certifications
 
 | Certification / Achievement | Issuer | Link |
 | :--- | :--- | :--- |
