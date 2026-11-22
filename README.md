@@ -1,7 +1,7 @@
 # 👋 Hi, Welcome to my profile
 
-🎓 **Computer Science & Informatics Engineering Student**  
-🛡️ **Cybersecurity Enthusiast & Software Developer**
+**Computer Science & Informatics Engineering Student**  
+**Cybersecurity Enthusiast & Software Developer**
 
 ---
 
