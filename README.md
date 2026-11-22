@@ -22,13 +22,13 @@
 
 > 🛡️ **Cybersecurity Writeups & Vulnerability Research**  
 > **Repository:** `not2negative/cybersecurity-writeups`  
-> 📌 Technical reports documenting end-to-end penetration testing methodology, root-cause analysis (CVEs, cryptography, privilege escalation), and remediation guidelines for Hack The Box labs and CTFs.  
+> Technical reports documenting end-to-end penetration testing methodology, root-cause analysis (CVEs, cryptography, privilege escalation), and remediation guidelines for Hack The Box labs and CTFs.  
 > 🔗 [Explore Writeups](https://github.com/not2negative/cybersecurity-writeups)
 
 > ⚔️ **Campo de Marte CTF — Attack & Defense**  
 > **Organizer:** INACAP Valparaíso  
 > **Format:** Live Attack & Defense Competition  
-> 📌 Competed in live cybersecurity challenges, tackling real-time infrastructure defense, vulnerability analysis, and network security.  
+> Competed in live cybersecurity challenges, tackling real-time infrastructure defense, vulnerability analysis, and network security.  
 > 🔗 [View Event & Highlights on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/)
 
 > 📁 **Python | BookBot Project**  
@@ -60,7 +60,7 @@
 | **Python** | Santander Open Academy | [View Certificate](https://drive.google.com/file/d/1aIG8mjvFhCWuKp2iF9O4EcVwOJo6Y-nL/view?usp=sharing) |
 | **Data Science** | IE University | [View Certificate](https://drive.google.com/file/d/1k_NMIQPdhSqyPS02trBOxGqM-jur9FhR/view?usp=sharing) |
 
-📂 *Additional certifications in AI, Data Analytics, and Productivity are available in my [Full Certifications Folder](https://drive.google.com/drive/folders/1kQPZrL8rh-SDTy5JtbNElzlxdnOOjTHU?usp=sharing).*
+*Additional certifications in AI, Data Analytics, and Productivity are available in my [Full Certifications Folder](https://drive.google.com/drive/folders/1kQPZrL8rh-SDTy5JtbNElzlxdnOOjTHU?usp=sharing).*
 
 ---
 
