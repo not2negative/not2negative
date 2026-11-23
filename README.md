@@ -1,4 +1,7 @@
-# 👋 Hi, Welcome to my profile
+# 💫 About Me
+Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineering degree, combining university coursework with self-taught projects in many languages, machine learning, robotics, and Pentesting. As you can see in my profile im focused on **Cybersecurity** (Ethical Hacking, Networking, SysAdmin, Active Directory), im usually practicing hands-on skills through **Hack The Box (HTB)**, **Docker labs**, **TryHackMe** and many other labs/machines. Also competing in **CTFs** (Attack & Defense, Jeopardy, etc).
+
+---
 
 **Computer Science & Informatics Engineering Student**  
 **Cybersecurity Enthusiast & Software Developer**
@@ -31,15 +34,6 @@
 > 📁 **Python | BookBot Project**  
 > One of my firsts projects in python with official Boot.dev certification  
 > 🔗 [View repository](https://github.com/not2negative/bookbot-project)
-
----
-
-### 🚀 About Me
-
-- Currently studying in my Computer Science Engineering degree, combining university coursework with self-taught projects and courses.
-- Focused on **Cybersecurity** (Ethical Hacking, Networking, SysAdmin, Active Directory) and **Software Development**.
-- Practicing hands-on skills through **Hack The Box (HTB)** labs and competing in **CTFs** (Attack & Defense, Jeopardy, etc).
-- Completed **20+ certifications** across Cisco Networking Academy, Google, Microsoft, and Santander Open Academy.
 
 ---
 
