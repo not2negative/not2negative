@@ -3,11 +3,6 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
 
 ---
 
-**Computer Science & Informatics Engineering Student**  
-**Cybersecurity Enthusiast & Software Developer**
-
----
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
