@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineering degree, combining university coursework with self-taught projects in many languages, machine learning, robotics, and Pentesting. As you can see in my profile im focused on **Cybersecurity** (Ethical Hacking, Networking, SysAdmin, Active Directory), im usually practicing hands-on skills through **Hack The Box (HTB)**, **Docker labs**, **TryHackMe** and many other labs/machines. Also competing in **CTFs** (Attack & Defense, Jeopardy, etc).
+Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineering degree, combining university coursework with self-taught projects in many languages, machine learning, robotics, and Pentesting. As you can see in my profile im mainly focused on **Cybersecurity** (Ethical Hacking, Networking, Linux SysAdmin, Active Directory, etc.), im usually practicing hands-on skills through **Hack The Box (HTB)**, **Docker labs**, **TryHackMe** and many other labs/machines platforma. Also competing in **CTFs** (Attack & Defense, Jeopardy, etc).
 
 ---
 
