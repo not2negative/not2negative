@@ -30,13 +30,17 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
 ---
 
 ### 🚩 Highlights
-> ⚔️ **Campo de Marte CTF — Attack & Defense**  
+> **Campo de Marte CTF — Attack & Defense**  
 > **Organizer:** INACAP Valparaíso  
 > **Format:** Live Attack & Defense Competition  
 > Competed in live cybersecurity challenges, tackling real-time infrastructure defense, vulnerability analysis, and network security.  
 > 🔗 [View Event on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7496781759699763201/)
 
-> 📁 **Python | BookBot Project**  
+> **Python & JavaScript | GitHub Tree Widget**
+> Interactive repository explorer and dynamic SVG card generator for GitHub READMEs, built with a serverless Python backend, strict input validation, and zero database overhead.
+> 🔗 [Live Demo](https://github-tree-widget.vercel.app) · [View repository](https://github.com/not2negative/github-tree-widget)
+
+> **Python | BookBot Project**  
 > One of my firsts projects in python with official Boot.dev certification  
 > 🔗 [View repository](https://github.com/not2negative/bookbot-project)
 
