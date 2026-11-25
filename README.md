@@ -18,7 +18,7 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
 
 <p align="center">
   <a href="https://not2negative.github.io/cybersecurity-writeups/">
-    <img src="https://github-tree-widget.vercel.app/api/svg?user=not2negative&repo=cybersecurity-writeups" width="100%" alt="Cybersecurity Writeups Repository Map" />
+    <img src="https://github-tree-widget.vercel.app/api/svg?user=not2negative&repo=cybersecurity-writeups&v=2" width="100%" alt="Cybersecurity Writeups Repository Map" />
   </a>
 </p>
 
@@ -26,6 +26,8 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
   <a href="https://not2negative.github.io/cybersecurity-writeups/"><strong>Open Interactive Repository Explorer</strong></a> ·
   <a href="https://github.com/not2negative/cybersecurity-writeups">View Source Repository</a>
 </p>
+
+---
 
 ### 🚩 Highlights
 > ⚔️ **Campo de Marte CTF — Attack & Defense**  
