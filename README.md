@@ -24,7 +24,7 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
 
 <p align="center">
   <a href="https://not2negative.github.io/cybersecurity-writeups/"><strong>Open Interactive Repository Explorer</strong></a> ·
-  <a href="https://github.com/not2negative/cybersecurity-writeups">View Source Repository</a>
+  <a href="https://github.com/not2negative/cybersecurity-writeups">Writeups Repository</a>
 </p>
 
 ---
