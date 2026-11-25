@@ -14,6 +14,19 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
 
 ---
 
+## Featured Lab & Writeups Repository
+
+<p align="center">
+  <a href="https://not2negative.github.io/cybersecurity-writeups/">
+    <img src="https://github-tree-widget.vercel.app/api/svg?user=not2negative&repo=cybersecurity-writeups" width="100%" alt="Cybersecurity Writeups Repository Map" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://not2negative.github.io/cybersecurity-writeups/"><strong>Open Interactive Repository Explorer</strong></a> ·
+  <a href="https://github.com/not2negative/cybersecurity-writeups">View Source Repository</a>
+</p>
+
 ### 🚩 Highlights
 
 > 🛡️ **Cybersecurity Writeups & Vulnerability Research** 
