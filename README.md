@@ -38,7 +38,7 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
 
 > **Python & JavaScript | GitHub Tree Widget**
 > Interactive repository explorer and dynamic SVG card generator for GitHub READMEs, built with a serverless Python backend, strict input validation, and zero database overhead.
-> 🔗 [Live Demo](https://github-tree-widget.vercel.app) · [View repository](https://github.com/not2negative/github-tree-widget)
+> 🔗 [View repository](https://github.com/not2negative/github-tree-widget)
 
 > **Python | BookBot Project**  
 > One of my firsts projects in python with official Boot.dev certification  
