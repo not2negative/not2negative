@@ -14,7 +14,7 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
 
 ---
 
-## Featured Lab & Writeups Repository
+## 🛡️ Featured Lab & Writeups Repository
 
 <p align="center">
   <a href="https://not2negative.github.io/cybersecurity-writeups/">
@@ -28,11 +28,6 @@ Hi I'm Alonso Aka not2negative and im currently in my Computer Science Engineeri
 </p>
 
 ### 🚩 Highlights
-
-> 🛡️ **Cybersecurity Writeups & Vulnerability Research** 
-> Technical reports documenting end-to-end penetration testing methodology, root-cause analysis (CVEs, cryptography, privilege escalation), and remediation guidelines for Hack The Box labs and CTFs.  
-> 🔗 [Explore Writeups](https://github.com/not2negative/cybersecurity-writeups)
-
 > ⚔️ **Campo de Marte CTF — Attack & Defense**  
 > **Organizer:** INACAP Valparaíso  
 > **Format:** Live Attack & Defense Competition  
